@@ -1,9 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-```
-// github.com/jui166
-```
+
 
 # Hey, I'm Jui Prabhukhot 👋
 

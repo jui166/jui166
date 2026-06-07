@@ -211,7 +211,7 @@ Comprehensive collection of machine learning projects, tutorials, and implementa
 
 I'm always interested in discussing AI/ML, collaborating on innovative projects, or exploring new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jui-prabhukhot-7989a83aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jui166)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jui.prabhukhot@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jui166)
 

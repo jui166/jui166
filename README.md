@@ -189,13 +189,9 @@ Comprehensive collection of machine learning projects, tutorials, and implementa
 
 ---
 
-## 🎓 Education & Experience
+## 🎓 Skills
 
-**M.Sc in Artificial Intelligence & Machine Learning** *(In Progress)*
-- Focus: Deep Learning, NLP, MLOps
-- Coursework: Advanced ML, Neural Networks, Reinforcement Learning
 
-**Skills:**
 - Machine Learning & Deep Learning
 - Large Language Models (LLMs)
 - API Development (FastAPI)
